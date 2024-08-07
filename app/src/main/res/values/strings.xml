@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Huruf Hangul</string>
+
+    <string name="tentang_korea1">Korea Selatan memiliki empat musim yang berbeda dan ketiga sisi wilayahnya dikelilingi oleh laut. Penduduk Korea Selatan, yang tinggal di lingkungan alam sekitar pegunungan yang lebih luas dari dataran rendah, telah mengembangkan budaya sandang, pangan, dan papan yang unggul dan kreatif. Warga Korea Selatan menciptakan berbagai bahan pakaian, menjahit, dan memakai pakaian khasnya sendiri agar dapat hidup dengan nyaman pada musim dingin dan musim panas. Mereka juga menyiapkan makanan dengan konsep “kesehatan berasal dari makanan". Selain itu, warga Korea juga mengembangkan metode hunian unik yang disebut hanok yang mengadaptasi lingkungan alam </string>
+
+    <string name="tentang_korea2">Korea Selatan menggunakan bahasa dan abjadnya sendiri, yaitu Hangeul, karakter khas yang diciptakan oleh Raja Sejong (1397--1450) dari Dinasti Joseon. Hangeul telah diakui di seluruh dunia sebagai abjad yang unggul karena mudah dipelajari dan ditulis. Yang paling utama adalah Hangeul unggul secara ilmiah karena dapat menghasilkan suara yang sangat beragam dengan menggabungkan 24 huruf yang tersedia.</string>
+
+    <string name="tentang_aplikasi">Aplikasi ini dilengkapi dengan menu materi yaitu huruf konsonan dasar, huruf vokal dasar, huruf vokal kombinasi dan huruf konsonan keras, dan aplikasi ini juga ada berbagai menu budaya korea, kuis, score dan biodata penulis. dan juga bisamendengarkan kosa kata bahasa Korea. Selain itu, aplikasi ini bisa diakses secara offline dan dapat digunakan secara gratis. Dengan kata lain, Anda tidak perlu berlangganan untuk menikmati beragam fitur dalam aplikasi tersebut.</string>
+    <string name="biodata">Berawal dari ketertarikan saya sebagai pembuat aplikasi dengan kebudayaan
+Korea menumbuhkan rasa keingin tahuan saya kepada bahasa Korea. Melalui pengalaman yang telah saya lalui dalam mempelajari bahasa Korea, saya ingin membagikan sedikit ilmu yang saya dapatkan dari mempelajari bahasa Korea tersebut.</string>
+
+    <string name="biodata2">Maka dari itu diharapkan aplikasi Pembelajaran Bahasa Korea ini dapat membantu dan mempermudah orang-orang yang ingin mempelajari bahasa Korea.</string>
+
+    <string name="biodata3"> 입을 맛있해 사람하은, 자칼은 손유자가: 질만 집사 람있는 사람을,</string>
+
+    <string name="biodata4">Artinya: Orang-orang yang behenti belajar akan menjadi pemilk masa lalu, namun mereka yang terus belajar, akan menjadi pemilik masa depan. Jangan pernah menyerah mempelajari hal baru.
+</string>
+
+
+    <string name="deskripsi_kimchi">Kimchi merupakan irisan sayur kubis yang di fermentasi dan dipadukan dengan saus cabai merah. Makanan khas ini dilengkapi dengan pasta ikan teri yang lezat dan memiliki rasa pedas dan asamOrang Korea sangat menyukai Kimchi dan makanan ini selalu dikonsumsi berdampingan dengan hidangan lainnya, seperti ayam goreng pedas, bibimbap, maupun nasi goreng.
+                                    Terlebih, kimchi termasuk makanan sehat. Makanan ini mengandung probiotik, terutama lactobacilli yang berkhasiat untuk melancarkan sistem metabolisme tubuh.</string>
+
+    <string name="about_us">Aplikasi Pembelajaran Bahasa Korea Hangul adalah sebuah aplikasi mobile yang dirancang untuk membantu pengguna mempelajari huruf Korea atau Hangul secara mudah dan interaktif. </string>
+    <string name="about_us_paragraf2">Aplikasi ini cocok bagi mereka yang ingin belajar bahasa Korea sebagai bahasa asing atau bahkan bagi mereka yang ingin mengembangkan kemampuan bahasa Korea yang sudah dimiliki.</string>
+    <string name="about_us_paragraf3">Aplikasi Pembelajaran Bahasa Korea Hangul dirancang dengan antarmuka yang intuitif dan mudah digunakan. Aplikasi ini sangat cocok bagi mereka yang ingin mempelajari huruf Korea dengan cara yang lebih interaktif dan menyenangkan.</string>
+    <string name="about_us_paragraf4">Dengan menggunakan aplikasi ini, diharapkan pengguna dapat mempelajari huruf Korea dengan lebih mudah dan cepat serta meningkatkan kemampuan bahasa Korea mereka secara keseluruhan.</string>
+
+    <string name="deskripsi_hanbok">Pakaian hanbok merupakan salah satu khasnya budaya Korea Selatan! Hanbok adalah pakaian tradisional masyarakat Korea yang pada umumnya memiliki warna cerah, dengan garis sederhana serta tidak memiliki saku. Biasanya Hanbok yang di gunakan oleh keluarga kerajaan atau keturunan bangsawan akan beda modelnya dengan rakyat biasa. Namun sekarang ini, Hanbok tidak lagi menggunakan sistem itu. Pakaian tradisional ini di gunakan untuk acara-acara khusus, seperti pernikahan, ulang tahun, dan perayaan ulang tahun ke-61. Selain menggunakan Hanbok, akan ada hiasan tambahan yang biasanya digunakan bersamaan. Untuk wanita, biasanya akan menggunakan tusuk rambut atau yang di sebut sebagai binyeo dan alas kaki tradisional yang bentuknya hampir seperti flat-shoes. Sedangkan pria biasanya mengenakan topi maupun rompi sebagai hiasan tambahan untuk dikenakan.</string>
+
+    <string name="deskripsi_chuseok">Chuseok (추석) adalah salah satu perayaan terbesar dan paling penting di Korea Selatan. Perayaan ini juga dikenal sebagai “Hari Terima Kasih” atau “Thanksgiving Day” dalam budaya Korea Selatan.Hari perayaan Chuseok biasanya jatuh pada tanggal 15 bulan ke-8 dalam penanggalan lunar, yang biasanya bertepatan dengan bulan September atau Oktober dalam penanggalan Gregorian. Pada hari Chuseok, orang Korea Selatan biasanya kembali ke kampung halaman mereka untuk berkumpul bersama keluarga dan merayakan bersama. Selama hari perayaan ini, keluarga Korea Selatan mengunjungi makam leluhur mereka untuk membersihkannya dan memberi penghormatan kepada mereka.</string>
+
+    <string name="deskripsi_hanok">Kebanyakan dari kita pasti pernah melihat rumah tradisional Korea baik itu dari foto maupun saat menonton film Korea. Hanok adalah sebutan untuk rumah tradisional Korea Selatan.
+
+Rumah ini memiliki tampilan unik dan artistik dari segi arsitekturnya. Desain Hanok mencerminkan hubungan spiritual antara manusia dengan alam.
+
+Struktur bangunannya membawa kita kembali pada kehidupan yang lebih sederhana dan tenang. Faktanya hanok ini sudah menjadi budaya korea selatan yang dipatenkan lohh.
+
+Meski tidak banyak lagi bangunan di Korea Selatan yang mengusung konsep rumah Hanok, tetapi rumah jenis Hanok masih tetap ada hingga saat ini.
+
+Untuk melindungi budaya tersebut, Pemerintah Korea memugar beberapa desa yang masih banyak terdapat bangunan rumah Hanok di sana. Mereka menjadikannya sebagai desa tradisional dan memanfaatkannya untuk kepentingan wisata.</string>
+</resources>

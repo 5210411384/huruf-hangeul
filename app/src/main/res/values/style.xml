@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Styles -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- ... -->
+    </style>
+
+    <!-- Custom style for RadioButton -->
+    <style name="WhiteRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:buttonTint">#FFFFFF</item>
+    </style>
+</resources>

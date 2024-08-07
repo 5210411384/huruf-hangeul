@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_polosan"
+    android:gravity="center"
+    tools:context=".AboutKorea">
+
+    <ImageView
+        android:layout_marginTop="80dp"
+        android:layout_width="200dp"
+        android:layout_height="130dp"
+        android:src="@drawable/tentang_korea"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:backgroundTint="#5271FF"
+        android:text="KOREA SELATAN"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:fontFamily="@font/more_sugar"/>
+
+    <TextView
+        android:textSize="12sp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tentang_korea1"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:fontFamily="@font/more_sugar"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/more_sugar"
+        android:text="@string/tentang_korea2"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="12sp" />
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_alignParentBottom="true"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/sapaan_baru" />
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

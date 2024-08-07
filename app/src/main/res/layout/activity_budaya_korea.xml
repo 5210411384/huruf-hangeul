@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_polosan"
+    android:gravity="center"
+    tools:context=".BudayaKorea">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="270dp"
+            android:fontFamily="@font/more_sugar"
+            android:text="Budaya Korea"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="20dp" />
+
+<ScrollView
+    android:layout_width="300dp"
+    android:layout_height="600dp"
+    android:layout_marginBottom="300dp"
+    android:layout_marginTop="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg_budaya">
+
+        <TextView
+            android:fontFamily="@font/more_sugar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kimchi"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="280dp"
+            android:layout_height="200dp"
+            android:src="@drawable/kimchi"/>
+
+        <TextView
+            android:layout_gravity="center"
+            android:fontFamily="@font/more_sugar"
+            android:textColor="@color/black"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="@string/deskripsi_kimchi"
+            android:textSize="10sp"
+            android:textAlignment="center"/>
+
+        <View
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black"/>
+
+        <TextView
+            android:fontFamily="@font/more_sugar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hanbok"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="280dp"
+            android:layout_height="200dp"
+            android:src="@drawable/hanbok"/>
+
+        <TextView
+            android:layout_gravity="center"
+            android:fontFamily="@font/more_sugar"
+            android:textColor="@color/black"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="@string/deskripsi_hanbok"
+            android:textSize="10sp"
+            android:textAlignment="center"/>
+
+        <View
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black"/>
+
+        <TextView
+            android:fontFamily="@font/more_sugar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Perayaan Chuseok"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="280dp"
+            android:layout_height="200dp"
+            android:src="@drawable/perayaan_chuseok"/>
+
+        <TextView
+            android:layout_gravity="center"
+            android:fontFamily="@font/more_sugar"
+            android:textColor="@color/black"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="@string/deskripsi_chuseok"
+            android:textSize="10sp"
+            android:textAlignment="center"/>
+
+        <View
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black"/>
+
+        <TextView
+            android:fontFamily="@font/more_sugar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hanok"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="280dp"
+            android:layout_height="200dp"
+            android:src="@drawable/hanok"/>
+
+        <TextView
+            android:layout_gravity="center"
+            android:fontFamily="@font/more_sugar"
+            android:textColor="@color/black"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="@string/deskripsi_chuseok"
+            android:textSize="10sp"
+            android:layout_marginBottom="5sp"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+</LinearLayout>

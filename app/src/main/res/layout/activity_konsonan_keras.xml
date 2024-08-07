@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_polosan"
+    android:gravity="center"
+    tools:context=".KonsonanKeras">
+
+    <TextView
+        android:fontFamily="@font/more_sugar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Huruf Konsonan Keras"
+        android:textAllCaps="true"
+        android:textSize="20dp"
+        android:textColor="@color/white"/>
+
+    <TableLayout
+        android:layout_marginBottom="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Baris pertama sebagai header -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#4A5AA6"
+            android:padding="3dp">
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="No"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="Huruf"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="Nama"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="Romanisasi"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Bunyi"
+                android:textColor="#ffffff"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+<!--            <TextView-->
+<!--                android:fontFamily="@font/more_sugar"-->
+<!--                android:layout_width="5dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="On"-->
+<!--                android:textColor="#ffffff"-->
+<!--                android:textAlignment="center"-->
+<!--                android:textStyle="bold" />-->
+        </TableRow>
+
+        <!--        Baris 2-->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp">
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="1" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ㄲ" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ssang-giyeok" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="gg" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="가깝다 (dekat)" />
+
+            <ImageView
+                android:id="@+id/bunyigakkapda"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end"
+                android:src="@drawable/logo_play"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp">
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="2" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ㅃ" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="sssang-bieup" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="bb" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="삐쳤다 (kesal)" />
+
+            <ImageView
+                android:id="@+id/bunyippichyotda"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end"
+                android:src="@drawable/logo_play"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp">
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="3" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ㄸ" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ssang-digeut" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="dd" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="딸기 (stroberi)" />
+
+            <ImageView
+                android:id="@+id/bunyittalgi"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end"
+                android:src="@drawable/logo_play"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp">
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="4" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ㅉ" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ssang-jieut" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="jj" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="119dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="짜장면 (mie hitam)" />
+
+            <ImageView
+                android:id="@+id/bunyijjajangmyon"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end"
+                android:src="@drawable/logo_play"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp">
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="5" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ㅆ" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ssang-siot" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="ss" />
+
+            <TextView
+                android:fontFamily="@font/more_sugar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:text="쌍둥이 (anak kembar" />
+
+            <ImageView
+                android:id="@+id/bunyissangdungi"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end"
+                android:src="@drawable/logo_play"/>
+        </TableRow>
+
+
+    </TableLayout>
+
+</LinearLayout>
